@@ -1,0 +1,4 @@
+# Sentence
+1	I	2 	nsubj
+2	love	0	root	
+3	NLP	2 	dobj

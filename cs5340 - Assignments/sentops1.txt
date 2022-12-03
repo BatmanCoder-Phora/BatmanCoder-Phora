@@ -1,0 +1,8 @@
+SENTENCE: I love NLP
+OPERATORS
+Shift
+Shift
+LeftArc nsubj
+Shift
+RightArc dobj
+RightArc root
