@@ -1,0 +1,15 @@
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\obj\Debug\net6.0\TestCoseClass.csproj.AssemblyReference.cache
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\obj\Debug\net6.0\TestCoseClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\obj\Debug\net6.0\TestCoseClass.AssemblyInfoInputs.cache
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\obj\Debug\net6.0\TestCoseClass.AssemblyInfo.cs
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\obj\Debug\net6.0\TestCoseClass.csproj.CoreCompileInputs.cache
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\bin\Debug\net6.0\TestCoseClass.exe
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\bin\Debug\net6.0\TestCoseClass.deps.json
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\bin\Debug\net6.0\TestCoseClass.runtimeconfig.json
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\bin\Debug\net6.0\TestCoseClass.dll
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\bin\Debug\net6.0\ref\TestCoseClass.dll
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\bin\Debug\net6.0\TestCoseClass.pdb
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\obj\Debug\net6.0\TestCoseClass.dll
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\obj\Debug\net6.0\ref\TestCoseClass.dll
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\obj\Debug\net6.0\TestCoseClass.pdb
+C:\Users\skate\source\repos\TestCoseClass\TestCoseClass\obj\Debug\net6.0\TestCoseClass.genruntimeconfig.cache
