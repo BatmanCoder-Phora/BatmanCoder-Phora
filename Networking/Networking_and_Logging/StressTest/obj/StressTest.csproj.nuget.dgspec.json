@@ -1,0 +1,315 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\StressTest\\StressTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ClientProject\\Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ClientProject\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ClientProject\\Client.csproj",
+        "packagesPath": "C:\\Users\\Corbin Gurnee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ClientProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Corbin Gurnee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\FileLogger\\FileLogger.csproj": {
+                "projectPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\FileLogger\\FileLogger.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\FileLogger\\FileLogger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\FileLogger\\FileLogger.csproj",
+        "projectName": "FileLogger",
+        "projectPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\FileLogger\\FileLogger.csproj",
+        "packagesPath": "C:\\Users\\Corbin Gurnee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\FileLogger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Corbin Gurnee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging.EventLog": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ServerProject\\Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ServerProject\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ServerProject\\Server.csproj",
+        "packagesPath": "C:\\Users\\Corbin Gurnee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ServerProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Corbin Gurnee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\FileLogger\\FileLogger.csproj": {
+                "projectPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\FileLogger\\FileLogger.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\StressTest\\StressTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\StressTest\\StressTest.csproj",
+        "projectName": "StressTest",
+        "projectPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\StressTest\\StressTest.csproj",
+        "packagesPath": "C:\\Users\\Corbin Gurnee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\StressTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Corbin Gurnee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ClientProject\\Client.csproj": {
+                "projectPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ClientProject\\Client.csproj"
+              },
+              "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ServerProject\\Server.csproj": {
+                "projectPath": "C:\\Users\\Corbin Gurnee\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman2\\Networking_and_Logging\\ServerProject\\Server.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.exe
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.csprojAssemblyReference.cache
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.AssemblyInfoInputs.cache
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.AssemblyInfo.cs
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.csproj.CopyComplete
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.deps.json
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.runtimeconfig.json
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.runtimeconfig.dev.json
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.pdb
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.dll
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.pdb
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.genruntimeconfig.cache
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.exe
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.deps.json
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.runtimeconfig.json
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.runtimeconfig.dev.json
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\FileLogger.pdb
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.csprojAssemblyReference.cache
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.AssemblyInfoInputs.cache
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.AssemblyInfo.cs
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.csproj.CopyComplete
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.dll
+C:\Users\Corbin Gurnee\Source\Repos\assignment-seven-logging-and-networking-the-batman2\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.pdb
+C:\Users\skate\Source\Repos\assignment-seven-logging-and-networking-the-batman\Networking_and_Logging\FileLogger\obj\Debug\netcoreapp3.1\FileLogger.csproj.CoreCompileInputs.cache

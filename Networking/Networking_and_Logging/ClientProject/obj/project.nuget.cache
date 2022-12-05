@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKcA1JWhoPZ66/6zzE4q2IMZ1ohPHvByKL8SI894KUffpmaQ8Eiu5YG9CQOaVwvX8HjwJOk78UYVo07CvDoMlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skate\\Source\\Repos\\assignment-seven-logging-and-networking-the-batman\\Networking_and_Logging\\ClientProject\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.3\\microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.3\\microsoft.extensions.hosting.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.logging\\3.1.3\\microsoft.extensions.logging.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.3\\microsoft.extensions.logging.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.3\\microsoft.extensions.logging.console.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.logging.debug\\3.1.3\\microsoft.extensions.logging.debug.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.logging.eventlog\\3.1.3\\microsoft.extensions.logging.eventlog.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.3\\microsoft.extensions.options.configurationextensions.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\skate\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
