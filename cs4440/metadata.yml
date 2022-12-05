@@ -1,0 +1,12 @@
+---
+:id: 111081353
+:submitters:
+- :name: SEPHORA BATEMAN
+  :email: u1216135@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-02-13 06:53:50.731172000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-02-12 22:53:50.731172000 Z
+:status: processed
+:score: 97.0
