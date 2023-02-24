@@ -1,4 +1,4 @@
 👋 Hi, I’m Sephora Bateman. I am a senior at the University of Utah studying Computer Science and I am set to graduate this spring with my bachelors.  When it comes to the type of development on a project, I am fine to code on either both the backend and the frontend. I like different thing on each of the different development types for example, I like working on the frontend because making the project look nice for the clients however, I have worked on the backend of project more than the front end.  The languages I have the most experience in is Java, C#, C++, C with some experience in JavaScript, HTML, and python.   
  
-The purpose of this repository is to have a collection of school projects to have worked on throughout my schooling, for future employers or other software programmers to see. The projects in this repudiatory are meant to be seen, for inspiration, not straight up copied.
+The purpose of this repository is to have a collection of school projects I have worked on throughout my schooling, for future employers or other software programmers to see. The projects in this repository are meant to be seen, for inspiration, not straight up copied.
 
